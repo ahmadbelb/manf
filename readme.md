@@ -1,18 +1,3 @@
-Metadata-Version: 2.1
-Name: manufacturing
-Version: 1.0.0
-Summary: Six-sigma-based analysis of manufacturing data for trends, Cpk/Ppk.
-Home-page: https://github.com/slightlynybbled/manufacturing
-Author: Jason R. Jones
-Author-email: slightlynybbled@gmail.com
-License: UNKNOWN
-Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
-Description-Content-Type: text/markdown
-
 # Purpose
 
 To provide analysis tools and metrics useful in manufacturing environments.
@@ -104,5 +89,3 @@ all.
 ![Zone Control example](images/control-chart-example.png)
 
 ![Cpk example](images/cpk-by-subgroups-1.png)
-
-
